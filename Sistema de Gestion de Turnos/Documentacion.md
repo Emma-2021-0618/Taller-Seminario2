@@ -50,19 +50,6 @@ Estatus
 - IDEstatus
 - Estatus
 
-CREATE TABLE Bancos (
-    idbanco int AUTO_INCREMENT,
-    nombre varchar(40),
-    rnc varchar(12),
-    PRIMARY KEY(idbanco)
-);
-CREATE TABLE Sucursales (
-    idsurcusales int AUTO_INCREMENT,
-    idbanco int,
-    nombre varchar(40),
-    PRIMARY KEY(idsurcusales)
-);
-
 CREATE TABLE Bancos ( idbanco int AUTO_INCREMENT, nombre varchar(40), rnc varchar(12), PRIMARY KEY(idbanco) ); CREATE TABLE Sucursales ( idsurcusales int AUTO_INCREMENT, idbanco int, nombre varchar(40), PRIMARY KEY(idsurcusales) );
 
 CREATE TABLE Cliente ( idcliente int AUTO_INCREMENT, nombre varchar(40), apellido varchar(40), sexo varchar(1), fecha date, telefono varchar(12), correo varchar(50), PRIMARY KEY(idcliente) );
