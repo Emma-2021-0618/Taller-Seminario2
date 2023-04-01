@@ -4,3 +4,4 @@
 # Correo de profesores
 - Santanfr@hotmail.com
 - josegguilamo@gmail.com
+- Escuela_inf@ucateci.edu.do
