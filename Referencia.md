@@ -144,7 +144,22 @@ importante los naranaja abajo de requisitos externos
 
 ### Usuario
 RU-1 El sistema calculara el salario de los empleados de la empresa (Funcional)
-1.1 hola
+1. h
+
+## Lista preliminar de requisitos
+
+--imagen
+
+## Requisitos de software
+
+## Validacion de un proyeco de software
+
+tabla 7 columnas 2 filas
+
+## Tecnicas de induccion 
+
+descripcion
+
 ## Proyectos Propuestos
 
 1. [Sistemas de Gestion de Turnos Documentacion](https://github.com/Emma-2021-0618/Taller-Seminario2/blob/main/Sistema%20de%20Gestion%20de%20Turnos/Documentacion.md.txt)
