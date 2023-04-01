@@ -73,6 +73,26 @@ CREATE TABLE Cliente (
     correo varchar(50),
     PRIMARY KEY(idcliente)
 );
+create TABLE cargo
+(
+id_cargo int PRIMARY key AUTO_INCREMENT,
+cargo  varchar (50) not null
+);
 
+create table turnos
+(
+idturnos int PRIMARY KEY AUTO_INCREMENT,
+idsucursal int,
+idcliente int,
+idservicios int,
+idempleados int,
+idfechayhora int,
+idestado int,
+secuencia varchar (50)
+   
+);
+CREATE TABLE estatus
+(idestatus int PRIMARY KEY AUTO_INCREMENT,
+estatus varchar(50));
 
 Servicios>Mysql80>Propiedades>Desabilitad>Aplicar>Reiniciar si no funciona Mysql
