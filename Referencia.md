@@ -138,7 +138,13 @@ descripcion
 
 importante los naranaja abajo de requisitos externos
 
+## Gestion de los requisitos
+- Son los fundamentos funcionales que sustentan la construccion de un sistemas software.
+- es un especificacion
 
+### Usuario
+RU-1 El sistema calculara el salario de los empleados de la empresa (Funcional)
+1.1 hola
 ## Proyectos Propuestos
 
 1. [Sistemas de Gestion de Turnos Documentacion](https://github.com/Emma-2021-0618/Taller-Seminario2/blob/main/Sistema%20de%20Gestion%20de%20Turnos/Documentacion.md.txt)
