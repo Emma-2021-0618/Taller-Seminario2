@@ -8,10 +8,39 @@
       <ul class="links">
         <li><a href="index.php">Inicio</a></li>
         <li>
-          <a href="#" class="desktop-link">Clientes</a>
+          <a href="#" class="desktop-link">Maestro</a>
           <ul>
             <li><a href="registrarClientes.php">Registrar Clientes</a></li>
             <li><a href="listadoClientes.php">Listado de Clientes</a></li>
+            <li><a href="listadoClientes.php">Crear Cargo</a></li>
+            <li><a href="listadoClientes.php">Crear Empleado</a></li>
+            <li><a href="listadoClientes.php">Crear Servicio</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#" class="desktop-link">Turnos</a>
+          <ul>
+            <li><a href="registrarClientes.php">Registrar Turnos</a></li>
+            <li><a href="listadoClientes.php">Listado de Turnos</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#" class="desktop-link">Reporte</a>
+          <ul>
+            <li><a href="registrarClientes.php">Reporte</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#" class="desktop-link">Configuracion</a>
+          <ul>
+            <li><a href="registrarClientes.php">Crear bancos</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#" class="desktop-link">Ayuda</a>
+          <ul>
+            <li><a href="registrarClientes.php">Ayuda general</a></li>
+            <li><a href="registrarClientes.php">Informacion de sistema</a></li>
           </ul>
         </li>
         <!-- Agregar debajo de esta linea el nuevo menu -->
