@@ -1,6 +1,6 @@
 # Taller-Seminario-2
 
-breve explicacion de una diapositiva con los siguientes temas.
+larga explicacion de una diapositiva con los siguientes temas.
 
 #### Indices
 
@@ -90,6 +90,53 @@ descripcion
 ## Importacia de las ingenieria de Requisitos
 
 - Segun la autora Lizka Johany Herrera en su documento de la ingenieria de requisimientos, los principales beneficios que se obtienen de la ingenieria de requerimientos son (2003:3)
+
+## Beneficios del levantamiento de requisitos
+
+Acuerdo edntre desarrolladores, clientes y suaurios sobre el trabsajo qeu debe realizarse unos requisitos bien elaborados
+
+- Acuerdo entre desarrrolladores, clientes y usuarios (stagehorde)
+- Concrecion de los atribrutos
+
+
+
+## Documentos de la IR
+
+--Imagen
+
+## Limitaciones de la ing. de requisitos
+
+Existen un limite fundamental, y sobre todo inherente a al construccion de software, que afecta a la ingenieria.
+
+## Proceso de ingenieria de requisitos consensuado
+
+--Imagen
+
+- Educcion
+- Analisis
+- Especificacion
+- Verificaacion
+- Gestion
+
+## Cuantos tipos de requisitos de usuario hay?
+
+- funcionalidad: se refieren a tareas  funciones primordiales que se espera realize el sistema
+ - sistema permitira aceptar pagos con tarjeta de credito y de debito
+- no funciona: se refiere a los atributos de calidad o cualidades del sistema (restricciones de la seguridad, acceso, control etc) 
+
+## Elicitacion de los requisitos
+
+descripcion
+
+## Dimensiones de los requisitos
+
+--imagen
+
+## Requisitos no funcionales
+
+--imagen
+
+importante los naranaja abajo de requisitos externos
 
 
 ## Proyectos Propuestos
