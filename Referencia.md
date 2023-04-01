@@ -156,7 +156,9 @@ RU-1 El sistema calculara el salario de los empleados de la empresa (Funcional)
 
 tabla 7 columnas 2 filas
 
-## Tecnicas de induccion 
+## Tecnicas de induccion de requisitos
+
+descripcion
 
 descripcion
 
