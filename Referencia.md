@@ -78,6 +78,13 @@ descripcion y ejemplo
 
 descripcion y ejemplo
 
+## Que es la ingenieria de requisitos
+
+descripcion
+
+## El porque de la ingenieria de requisitos
+
+descripcion
 
 ## Proyectos Propuestos
 
