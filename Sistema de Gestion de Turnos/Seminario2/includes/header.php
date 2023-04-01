@@ -33,7 +33,7 @@
         <li>
           <a href="#" class="desktop-link">Configuracion</a>
           <ul>
-            <li><a href="registrarClientes.php">Crear bancos</a></li>
+            <li><a href="registrarBanco.php">Crear bancos</a></li>
           </ul>
         </li>
         <li>
