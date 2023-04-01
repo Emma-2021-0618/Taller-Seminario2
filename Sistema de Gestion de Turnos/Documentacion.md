@@ -49,3 +49,4 @@ Turnos
 Estatus
 - IDEstatus
 - Estatus
+Servicios>Mysql80>Propiedades>Desabilitad>Aplicar>Reiniciar si no funciona Mysql
