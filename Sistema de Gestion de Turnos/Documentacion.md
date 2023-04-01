@@ -40,12 +40,12 @@ Turnos
 - IDTurno
 - IDSurcusal
 - IDCliente
-- IDservicios
-- IDempleado
+- IDServicios
+- IDEmpleado
 - Fechayhora
-- IDestados
+- IDEstados
 - Secuencia
 
 Estados
-- IDestados
+- IDEstados
 - Estados
