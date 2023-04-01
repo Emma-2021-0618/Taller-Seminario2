@@ -160,8 +160,6 @@ tabla 7 columnas 2 filas
 
 descripcion
 
-descripcion
-
 ## Proyectos Propuestos
 
 1. [Sistemas de Gestion de Turnos Documentacion](https://github.com/Emma-2021-0618/Taller-Seminario2/blob/main/Sistema%20de%20Gestion%20de%20Turnos/Documentacion.md.txt)
