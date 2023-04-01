@@ -78,13 +78,19 @@ descripcion y ejemplo
 
 descripcion y ejemplo
 
-## Que es la ingenieria de requisitos
+## Que es la ingenieria de Requisitos
 
 descripcion
 
-## El porque de la ingenieria de requisitos
+## El porque de la ingenieria de Requisitos
 
 descripcion
+
+
+## Importacia de las ingenieria de Requisitos
+
+- Segun la autora Lizka Johany Herrera en su documento de la ingenieria de requisimientos, los principales beneficios que se obtienen de la ingenieria de requerimientos son (2003:3)
+
 
 ## Proyectos Propuestos
 
