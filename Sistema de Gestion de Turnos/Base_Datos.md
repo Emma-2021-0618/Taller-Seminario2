@@ -72,7 +72,7 @@ nombre varchar(40),
 apellido varchar(40), 
 sexo varchar(1), 
 fecha date, 
-telefono varchar(12), 
+telefono varchar(20), 
 correo varchar(50), 
 PRIMARY KEY(idcliente)
 );
