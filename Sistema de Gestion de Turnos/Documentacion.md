@@ -14,7 +14,7 @@ Cliente
 - Nombre
 - Apellido
 - Sexo
-- Foto
+- Fecha
 - Telefono
 - Correo
 
