@@ -73,6 +73,25 @@ CREATE TABLE Cliente (
     correo varchar(50),
     PRIMARY KEY(idcliente)
 );
+
+CREATE TABLE Servicio (
+    idservicio int AUTO_INCREMENT,
+    nombre varchar (40),
+    prioridad varchar (40),
+    tiempoestimado int,
+    PRIMARY KEY(idservicio)
+);
+
+CREATE TABLE Empleado (
+    idempleado int AUTO_INCREMENT,
+    nombre varchar (40),
+    apellido varchar (40),
+    cedula varchar (40),
+    sexo varchar (40),
+    idcargo int,
+    PRIMARY KEY(Empleado)
+);
+
 create TABLE cargo
 (
 id_cargo int PRIMARY key AUTO_INCREMENT,
