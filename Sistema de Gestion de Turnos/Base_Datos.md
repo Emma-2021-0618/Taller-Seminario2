@@ -64,4 +64,3 @@ create table turnos ( idturnos int PRIMARY KEY AUTO_INCREMENT, idsucursal int, i
 
 CREATE TABLE estatus ( idestatus int PRIMARY KEY AUTO_INCREMENT, estatus varchar(50) );
 
-Servicios>Mysql80>Propiedades>Desabilitad>Aplicar>Reiniciar si no funciona Mysql
