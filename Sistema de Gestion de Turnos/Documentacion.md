@@ -63,58 +63,18 @@ CREATE TABLE Sucursales (
     PRIMARY KEY(idsurcusales)
 );
 
-CREATE TABLE Cliente (
-    idcliente int AUTO_INCREMENT,
-    nombre varchar(40),
-    apellido varchar(40),
-    sexo varchar(1),
-    fecha date,
-    telefono varchar(12),
-    correo varchar(50),
-    PRIMARY KEY(idcliente)
-);
+CREATE TABLE Bancos ( idbanco int AUTO_INCREMENT, nombre varchar(40), rnc varchar(12), PRIMARY KEY(idbanco) ); CREATE TABLE Sucursales ( idsurcusales int AUTO_INCREMENT, idbanco int, nombre varchar(40), PRIMARY KEY(idsurcusales) );
 
-CREATE TABLE Servicio (
-    idservicio int AUTO_INCREMENT,
-    nombre varchar (40),
-    prioridad varchar (40),
-    tiempoestimado int,
-    PRIMARY KEY(idservicio)
-);
+CREATE TABLE Cliente ( idcliente int AUTO_INCREMENT, nombre varchar(40), apellido varchar(40), sexo varchar(1), fecha date, telefono varchar(12), correo varchar(50), PRIMARY KEY(idcliente) );
 
-CREATE TABLE Empleado (
-    idempleado int AUTO_INCREMENT,
-    nombre varchar (40),
-    apellido varchar (40),
-    cedula varchar (40),
-    sexo varchar (40),
-    idcargo int,
-    PRIMARY KEY(Empleado)
-);
+CREATE TABLE Servicio ( idservicio int AUTO_INCREMENT, nombre varchar (40), prioridad varchar (40), tiempoestimado int, PRIMARY KEY(idservicio) );
 
-create TABLE cargo
-(
-id_cargo int PRIMARY key AUTO_INCREMENT,
-cargo  varchar (50) not null
-);
+CREATE TABLE Empleado ( idempleado int AUTO_INCREMENT, nombre varchar (40), apellido varchar (40), cedula varchar (40), sexo varchar (40), idcargo int, PRIMARY KEY(idempleado) );
 
-create table turnos
-(
-idturnos int PRIMARY KEY AUTO_INCREMENT,
-idsucursal int,
-idcliente int,
-idservicios int,
-idempleados int,
-idfechayhora int,
-idestado int,
-secuencia varchar (50) 
-);
+create TABLE cargo ( id_cargo int PRIMARY key AUTO_INCREMENT, cargo varchar (50) not null );
 
-CREATE TABLE estatus
-(
-idestatus int PRIMARY KEY AUTO_INCREMENT,
-estatus varchar(50)
-);
+create table turnos ( idturnos int PRIMARY KEY AUTO_INCREMENT, idsucursal int, idcliente int, idservicios int, idempleados int, idfechayhora int, idestado int, secuencia varchar (50) );
 
+CREATE TABLE estatus ( idestatus int PRIMARY KEY AUTO_INCREMENT, estatus varchar(50) );
 
 Servicios>Mysql80>Propiedades>Desabilitad>Aplicar>Reiniciar si no funciona Mysql
