@@ -46,6 +46,6 @@ Turnos
 - IDEstados
 - Secuencia
 
-Estados
-- IDEstados
-- Estados
+Estatus
+- IDEstatus
+- Estatus
