@@ -51,24 +51,31 @@ Estatus
 - Estatus
 
 CREATE TABLE Bancos (
-    IDBanco int AUTO_INCREMENT,
-    Nombre varchar(40),
-    RNC varchar(12),
-    PRIMARY KEY(IDBanco)
+    idbanco int AUTO_INCREMENT,
+    nombre varchar(40),
+    rnc varchar(12),
+    PRIMARY KEY(idbanco)
 );
 
 CREATE TABLE Sucursales (
-    IDSurcusales int AUTO_INCREMENT,
-    IDBanco int,
-    Nombre varchar(40),
-    PRIMARY KEY(IDSurcusales)
+    idsurcusales int AUTO_INCREMENT,
+    idbanco int,
+    nombre varchar(40),
+    PRIMARY KEY(idsurcusales)
 );
 
-CREATE TABLE Sucursales (
-    IDSurcusales int AUTO_INCREMENT,
-    IDBanco int,
-    Nombre varchar(40),
-    PRIMARY KEY(IDSurcusales)
+CREATE TABLE Cliente (
+    idcliente int AUTO_INCREMENT,
+    nombre varchar(40),
+    apellido varchar(40),
+    sexo varchar(1),
+    nombre varchar(40),
+    fecha date,
+    telefono varchar(12),
+    correo varchar(50),
+    PRIMARY KEY(idcliente)
 );
+
+
 
 Servicios>Mysql80>Propiedades>Desabilitad>Aplicar>Reiniciar si no funciona Mysql
